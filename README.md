@@ -1,24 +1,24 @@
-### Setup Instructions
+# Setup Instructions
 
 Follow the steps below to set up and run the project:
 
 ## 1. Create a Virtual Environment
 
-# On Windows:
+### On Windows:
 
 python -m venv venv
 
-# On MacOS/Linux:
+### On MacOS/Linux:
 
 python3 -m venv venv
 
 ## 2. Activate the Virtual Environment
 
-# On Windows:
+### On Windows:
 
 venv\Scripts\activate
 
-# On MacOS/Linux:
+### On MacOS/Linux:
 
 source venv/bin/activate
 
